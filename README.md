@@ -74,6 +74,7 @@ python wafreveal.py -d <domain> [options]
 * `--no-api`: Run without any third-party APIs (Shodan and SecurityTrails). Uses only SPF, MX, crt.sh, and subdomain dictionary resolution.
 * `-oJ`, `--output-json`: Export results to a JSON file.
 * `-oT`, `--output-txt`: Export results to a plain-text file.
+![](images/Screenshot2026-06-27084744.png)
 
 ### Examples
 
