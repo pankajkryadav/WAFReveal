@@ -4,6 +4,7 @@
 WAFReveal is a high-performance, multi-threaded command-line security tool designed to find the true origin IP address of a target domain behind proxy networks, reverse proxies, and Web Application Firewalls (WAFs) like Cloudflare, Akamai, or AWS CloudFront.
 
 By combining passive records harvesting, active SSL/TLS handshake inspection, and heuristic verification, WAFReveal provides high-confidence results even without expensive API keys.
+![](images/Screenshot2026-06-27084713.png)
 
 ---
 
